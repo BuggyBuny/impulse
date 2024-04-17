@@ -1,0 +1,25 @@
+//<FORM>
+// Снипет (HTML):
+.form {
+	&__row {
+	}
+	&__column {
+	}
+	&__line {
+	}
+	&__input {
+	}
+	&__button {
+	}
+	&__error {
+	}
+}
+//</FORM>
+
+// <BUTTONS>
+// Снипет (HTML): btn
+@import "button";
+
+// <SELECT>
+// Снипет (HTML): sel
+@import "select";
